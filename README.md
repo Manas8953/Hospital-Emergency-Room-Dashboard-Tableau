@@ -33,5 +33,5 @@ To identify key operational KPIs in ER services such as average wait time, admis
 - Segregation of admitted vs. not admitted cases
 
 ## 📷 Dashboard Preview
-> *([Insert your Tableau Public or screenshot image link here](https://public.tableau.com/shared/56PX9Y5PH?:display_count=n&:origin=viz_share_link))*
+> *([Click Here](https://public.tableau.com/shared/56PX9Y5PH?:display_count=n&:origin=viz_share_link))*
 
